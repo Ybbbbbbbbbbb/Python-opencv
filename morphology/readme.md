@@ -52,4 +52,4 @@ $$
 
   dist = blackhat(src, element) = src - close(src, element)
 
-（以上内容参考 https://blog.csdn.net/yangleo1987/article/details/53168423）
+（以上内容参考   https://blog.csdn.net/yangleo1987/article/details/53168423      )
