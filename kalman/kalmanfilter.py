@@ -9,6 +9,11 @@
 import cv2
 import numpy as np
 
+""""
+使用卡尔曼滤波做一个鼠标跟踪程序
+"""
+
+
 # 定义一个空的画图区域
 frame = np.zeros((700, 700, 3), np.uint8)
 
